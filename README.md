@@ -46,7 +46,7 @@ Below are examples of what the scripts do (based on filenames):
 | `24.Efetch.py` | Retrieve sequence using Entrez efetch |
 | `25.fetch_genbank.py` | Fetch GenBank record from NCBI |
 | `26.retrive_id_and_seq.py` | Fetch sequence by accession |
-| `27.py` | Miscellaneous practice |
+| `27.py` | Entrez Dataset Retriaval |
 | `28.esummary.py` | Entrez esummary usage |
 | `3.rna_seq1.py` | RNA → Protein transformations |
 | `4.translate.py` | DNA translation |
