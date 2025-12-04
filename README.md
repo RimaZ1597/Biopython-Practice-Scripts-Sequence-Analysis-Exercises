@@ -2,22 +2,22 @@
 
 This repository contains a collection of small Python scripts created while learning and practising **Biopython** and fundamental bioinformatics operations. Each script focuses on a specific task—such as reading FASTA files, parsing GenBank records, translating sequences, computing nucleotide frequencies, retrieving sequences from NCBI Entrez, and more.
 
-These scripts are ideal for beginners, students, or anyone wanting hands-on practice with sequence analysis using Python.
+These scripts are ideal for beginners, students, or anyone looking for hands-on practice in sequence analysis with Python.
 
 ---
 
 ## Features
 
-✔ Read and parse FASTA files  
-✔ Read and process GenBank files  
-✔ Work with Seq and SeqRecord objects  
-✔ Translate DNA → Protein  
-✔ Extract ORFs and codon frames  
-✔ Retrieve sequences using NCBI Entrez API  
-✔ Calculate GC content, nucleotide frequencies  
-✔ Work with multiple FASTA files  
-✔ Simple search and filtering operations  
-✔ Practice scripts for fundamental bioinformatics logic  
+* Read and parse FASTA files
+* Read and process GenBank files
+* Work with Seq and SeqRecord objects
+* Translate DNA → Protein
+* Extract ORFs and codon frames
+* Retrieve sequences using NCBI Entrez API
+* Calculate GC content, nucleotide frequencies
+* Work with multiple FASTA files
+* Simple search and filtering operations
+* Practice scripts for fundamental bioinformatics logic  
 
 ---
 
@@ -46,7 +46,7 @@ Below are examples of what the scripts do (based on filenames):
 | `24.Efetch.py` | Retrieve sequence using Entrez efetch |
 | `25.fetch_genbank.py` | Fetch GenBank record from NCBI |
 | `26.retrive_id_and_seq.py` | Fetch sequence by accession |
-| `27.py` | Entrez Dataset Retriaval |
+| `27.py` | Entrez Dataset |
 | `28.esummary.py` | Entrez esummary usage |
 | `3.rna_seq1.py` | RNA → Protein transformations |
 | `4.translate.py` | DNA translation |
@@ -73,7 +73,7 @@ By exploring these scripts, you will learn how to:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 Install Biopython:
 
