@@ -2,8 +2,6 @@
 
 This repository contains a collection of small Python scripts created while learning and practising **Biopython** and fundamental bioinformatics operations. Each script focuses on a specific task—such as reading FASTA files, parsing GenBank records, translating sequences, computing nucleotide frequencies, retrieving sequences from NCBI Entrez, and more.
 
-These scripts are ideal for beginners, students, or anyone looking for hands-on practice in sequence analysis with Python.
-
 ---
 
 ## Features
@@ -22,8 +20,6 @@ These scripts are ideal for beginners, students, or anyone looking for hands-on 
 ---
 
 ## 📁 Repository Structure
-
-Below are examples of what the scripts do (based on filenames):
 
 | File Name | Description |
 |----------|-------------|
